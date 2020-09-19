@@ -10,3 +10,5 @@ Modules needed:
 npm i
 npm i discord.js
 npm i quick.db
+ 
+ [![Run on Repl.it](https://repl.it/badge/github/Poker1st/ModMail)](https://repl.it/github/Poker1st/ModMail)
